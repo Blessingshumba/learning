@@ -1,4 +1,4 @@
-# This script activate the ISC alarm when leaving the premises
+# This script activate alarm when leaving any office
 # You will need to enter the code that you were given
 # Only three chances are given that and if you fails the program will lock you out
 name = input("Please enter your name ")
